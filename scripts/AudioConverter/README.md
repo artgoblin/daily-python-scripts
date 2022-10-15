@@ -1,6 +1,6 @@
 # Audio Converter
 
-CLI tool to convert an audio file from one extension to another (e.g. mp3 to wav)
+CLI tool to convert an audio file from one extension to another   (e.g. mp3 to wav)
 
 ## Requirements
 - [FFmpeg](https://ffmpeg.org/)
